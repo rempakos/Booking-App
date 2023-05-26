@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">event_booking_app</string>
+    <string name="event_name">string1</string>
+    <string name="event_date">date1</string>
+    <string name="event_description">description1</string>
+
+
+    <string-array name="event_names_txt">
+        <item>string1</item>
+        <item>string2</item>
+        <item>string3</item>
+        <item>string4</item>
+        <item>string5</item>
+        <item>string6</item>
+        <item>string7</item>
+        <item>string8</item>
+        <item>string9</item>
+        <item>string10</item>
+        <item>string11</item>
+    </string-array>
+
+    <string-array name="event_dates_txt">
+        <item>date1</item>
+        <item>date2</item>
+        <item>date3</item>
+        <item>date4</item>
+        <item>date5</item>
+        <item>date6</item>
+        <item>date7</item>
+        <item>date8</item>
+        <item>date9</item>
+        <item>date10</item>
+        <item>date11</item>
+    </string-array>
+
+    <string-array name="event_descriptions_txt">
+        <item>description1</item>
+        <item>description2</item>
+        <item>description3</item>
+        <item>description4</item>
+        <item>description5</item>
+        <item>description6</item>
+        <item>description7</item>
+        <item>description8</item>
+        <item>description9</item>
+        <item>description10</item>
+        <item>description11</item>
+    </string-array>
+
+</resources>
